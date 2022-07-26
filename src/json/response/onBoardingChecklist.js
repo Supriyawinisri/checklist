@@ -3,40 +3,33 @@ export const onBoardingChecklist = [
     id: "1",
     questions:
       "Has the new team member got access project work area, seat and system?",
-    answer: "No",
+    status: "Yes",
     comment: "Yet to complete",
-    date: "07/11/2022",
   },
   {
     id: "2",
     questions:
-      "Has the new team member got access project work area, seat and system?",
-    answer: "No",
+      "Has the member been issued client badge to enter/access the Prudential premises?",
+    status: "No",
     comment: "Yet to complete",
-    date: "",
   },
   {
     id: "3",
-    questions:
-      "Has the new team member got access project work area, seat and system?",
-    answer: "No",
+    questions: "Has the on boarding email sent to the new team member?",
+    status: "Yes",
     comment: "Yet to complete",
-    date: "",
   },
   {
     id: "4",
     questions:
-      "Has the new team member got access project work area, seat and system?",
-    answer: "No",
+      "Has the Onsite lead/Manager sent new team member details and user id creation request mail to Prudential management?",
+    status: "N/A",
     comment: "Yet to complete",
-    date: "",
   },
   {
     id: "5",
-    questions:
-      "Has the new team member got access project work area, seat and system?",
-    answer: "No",
+    questions: "Has BGC initiated for new team member?",
+    status: "No",
     comment: "Yet to complete",
-    date: "",
   },
 ];
